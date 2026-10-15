@@ -1,23 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+
 <channel>
 <title>Nyiregyhaza idojaras</title>
-<link>https://github.com</link>
+<link>https://gepidat63.github.io/nyiregyhaza-weather-rss/</link>
 <description>3 napos elorejelzes</description>
+
+<atom:link
+ href="https://gepidat63.github.io/nyiregyhaza-weather-rss/feed.xml"
+ rel="self"
+ type="application/rss+xml" />
 
 <item>
 <title>2026-10-15</title>
 <description>Max 16 C, Min 7 C</description>
+<guid>2026-10-15</guid>
 </item>
 
 <item>
 <title>2026-10-16</title>
 <description>Max 17 C, Min 6 C</description>
+<guid>2026-10-16</guid>
 </item>
 
 <item>
 <title>2026-10-17</title>
 <description>Max 15 C, Min 5 C</description>
+<guid>2026-10-17</guid>
 </item>
 
 </channel>
