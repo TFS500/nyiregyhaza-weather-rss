@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Nyiregyhaza idojaras</title>
+<link>https://github.com</link>
+<description>3 napos elorejelzes</description>
+
+<item>
+<title>2026-10-15</title>
+<description>Max 16 C, Min 7 C</description>
+</item>
+
+<item>
+<title>2026-10-16</title>
+<description>Max 17 C, Min 6 C</description>
+</item>
+
+<item>
+<title>2026-10-17</title>
+<description>Max 15 C, Min 5 C</description>
+</item>
+
+</channel>
+</rss>
